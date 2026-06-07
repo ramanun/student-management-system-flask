@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Add Student</title>
+</head>
+
+<body>
+
+<h2>Add Student</h2>
+
+<form method="POST">
+
+<input type="text" name="name" placeholder="Name" required>
+
+<input type="email" name="email" placeholder="Email" required>
+
+<input type="text" name="department" placeholder="Department" required>
+
+<input type="number" name="marks" placeholder="Marks" required>
+
+<button type="submit">
+Add Student
+</button>
+
+</form>
+
+</body>
+</html>
